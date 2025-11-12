@@ -724,5 +724,127 @@
 "chinese": "她训练非常刻苦，并不断精进技术。",
 "english": "She works extremely hard and keeps improving her technique.",
 "type": "sentence"
+},
+{
+"category": "Teacher/Math",
+"chinese": "有时他布置的作业太多，但后来我意识到这是为了打好基础。",
+"english": "Sometimes he assigned too much homework, but later I realized it was to help us build a solid foundation.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "我对她没有任何不满；她在乒乓球上的投入和成就令人敬佩。",
+"english": "There is nothing I dislike about her; she is a role model for dedication and achievement in table tennis.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "她来自中国河北省石家庄。",
+"english": "She is from Shijiazhuang, Hebei Province, China.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "她赢得了多项国际冠军，包括奥运奖牌和世界杯头衔。",
+"english": "She has won multiple international titles, including Olympic medals and World Cup championships.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "她来自我的家乡。",
+"english": "She is from my hometown.",
+"type": "sentence"
+},
+{
+"category": "Friend",
+"chinese": "她和我上过同一所高中。",
+"english": "She attended the same high school as me.",
+"type": "sentence"
+},
+{
+"category": "Friend",
+"chinese": "她曾是我初中的同班同学。",
+"english": "She was my classmate in junior high school.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Math",
+"chinese": "我在高三时认识了他，他当了我一年的数学老师。",
+"english": "I met him in my senior year of high school, and he was my math teacher for one year.",
+"type": "sentence"
+},
+{
+"category": "Style",
+"chinese": "这样搭配让我不用为颜色协调而烦恼。",
+"english": "This makes color matching easy for me.",
+"type": "sentence"
+},
+{
+"category": "Shopping/Online",
+"chinese": "随意浏览购物应用会给我带来一点小小的快乐。",
+"english": "Aimlessly browsing shopping apps gives me a small sense of happiness.",
+"type": "sentence"
+},
+{
+"category": "Weather/Preference",
+"chinese": "在室内穿厚衣服会让我不舒服，尤其是睡觉时。",
+"english": "Wearing thick clothes indoors makes me uncomfortable, especially when sleeping.",
+"type": "sentence"
+},
+{
+"category": "Devices/Phone",
+"chinese": "如果没有手机，我会有一种失落感。",
+"english": "Without my phone, I would feel a sense of loss.",
+"type": "sentence"
+},
+{
+"category": "Brand/Clothing",
+"chinese": "在宴会或运动等特殊场合，人们更愿意选择大牌，因为它们象征地位或拥有有助于运动表现的专利技术。",
+"english": "For special occasions like parties or sports, people are more willing to choose big brands because they signal status or have patented features that support performance.",
+"type": "sentence"
+},
+{
+"category": "Brand/Clothing",
+"chinese": "日常穿着时，人们更看重衣服的质量和舒适度。",
+"english": "For casual occasions, people care more about quality and comfort.",
+"type": "sentence"
+},
+{
+"category": "Routine/Morning",
+"chinese": "晨跑让我头脑清醒，更好地投入学习。",
+"english": "A morning run clears my mind and helps me study better.",
+"type": "sentence"
+},
+{
+"category": "Evening/Preference",
+"chinese": "整天学习后我会感到疲惫，所以晚上不再继续学习。",
+"english": "After a full day of study I feel tired, so I do not continue studying in the evening.",
+"type": "sentence"
+},
+{
+"category": "Technology/Impact",
+"chinese": "科技显著提升了我的生活质量。",
+"english": "Technology has significantly improved my quality of life.",
+"type": "sentence"
+},
+{
+"category": "App/Features",
+"chinese": "在小红书上还能找到旅行中的实用信息，比如异国城市的公共设施提示。",
+"english": "On Rednotes you can even find practical travel information, such as tips about public facilities in other countries.",
+"type": "sentence"
+},
+{
+"category": "Music",
+"chinese": "听粤语流行歌常让我产生情感共鸣。",
+"english": "Listening to Cantonese pop often gives me a strong emotional connection.",
+"type": "sentence"
+},
+{
+"category": "Leisure/Social",
+"chinese": "和朋友小聚能缓解我的疲惫与焦虑。",
+"english": "Meeting friends helps relieve my tiredness and anxiety.",
+"type": "sentence"
 }
+
+
 ]
