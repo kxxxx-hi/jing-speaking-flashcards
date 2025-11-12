@@ -1,0 +1,728 @@
+[
+{
+"category": "Hometown",
+"chinese": "我的家乡是肇庆，离广州不远的一座小城。",
+"english": "My hometown is Zhaoqing, a small city not far from Guangzhou.",
+"type": "sentence"
+},
+{
+"category": "Hometown",
+"chinese": "虽然没有大型商场和完善的交通网络，但我仍然很喜欢它。",
+"english": "Although it lacks big malls and a well-developed transport network, I still love it.",
+"type": "sentence"
+},
+{
+"category": "Hometown",
+"chinese": "肇庆有几个著名景区，空气清新，物价亲民。",
+"english": "Zhaoqing has several famous resorts, fresh air, and affordable goods.",
+"type": "sentence"
+},
+{
+"category": "Nature/Leisure",
+"chinese": "我最喜欢的地方是鼎湖山，它是肇庆著名的旅游胜地。",
+"english": "My favorite place is Dinghu Mountain, a well-known tourist destination in Zhaoqing.",
+"type": "sentence"
+},
+{
+"category": "Nature/Leisure",
+"chinese": "那里以清新的空气、翠绿的树木和清澈的溪流闻名。",
+"english": "It is known for fresh air, green trees, and clear streams.",
+"type": "sentence"
+},
+{
+"category": "Nature/Leisure",
+"chinese": "每当我感到压力大，就会去那里散步。",
+"english": "Whenever I feel stressed, I go there for a walk.",
+"type": "sentence"
+},
+{
+"category": "Nature/Leisure",
+"chinese": "宁静的环境和大自然的声响总能让我清空杂念。",
+"english": "The peaceful environment and the sounds of nature help me clear my head.",
+"type": "sentence"
+},
+{
+"category": "Education/Career",
+"chinese": "我是一名在广州就读的法学大四学生。",
+"english": "I am a senior law student studying in Guangzhou.",
+"type": "sentence"
+},
+{
+"category": "Education/Career",
+"chinese": "我计划申请香港的硕士学位以进一步深造。",
+"english": "I plan to apply for a master’s degree in Hong Kong to further my studies.",
+"type": "sentence"
+},
+{
+"category": "Education/Career",
+"chinese": "我选择法律是因为它的就业前景好。",
+"english": "I chose law because it offers strong employment prospects.",
+"type": "sentence"
+},
+{
+"category": "Education/Career",
+"chinese": "法律规范着国家的根基、公司的运作以及人们的行为。",
+"english": "Law regulates the foundation of a country, the operations of companies, and people’s behavior.",
+"type": "sentence"
+},
+{
+"category": "Study/Interest",
+"chinese": "分析复杂案件是我学习中最有趣的部分。",
+"english": "Analyzing complex cases is the most interesting part of my studies.",
+"type": "sentence"
+},
+{
+"category": "Study/Interest",
+"chinese": "我喜欢把学到的知识与实践相结合。",
+"english": "I enjoy combining what I have learned with real practice.",
+"type": "sentence"
+},
+{
+"category": "Study/Emotion",
+"chinese": "解决问题会让我产生强烈的成就感。",
+"english": "Solving problems gives me a strong sense of achievement.",
+"type": "sentence"
+},
+{
+"category": "Study/Challenge",
+"chinese": "分析复杂案件需要适用大量法条，有时会让我感到压力。",
+"english": "Analyzing complex cases can be stressful because it requires applying many legal articles.",
+"type": "sentence"
+},
+{
+"category": "Work/Style",
+"chinese": "我的偏好取决于任务类型。",
+"english": "My preference depends on the task.",
+"type": "sentence"
+},
+{
+"category": "Work/Style",
+"chinese": "如果任务简单，我更喜欢独自完成。",
+"english": "For simple tasks, I like to work alone.",
+"type": "sentence"
+},
+{
+"category": "Work/Style",
+"chinese": "如果任务艰巨，与他人合作会更高效。",
+"english": "For tough assignments, collaborating with others is more effective.",
+"type": "sentence"
+},
+{
+"category": "Thinking",
+"chinese": "学习法律重塑了我的思维方式。",
+"english": "Studying law has reshaped my mindset.",
+"type": "sentence"
+},
+{
+"category": "Thinking",
+"chinese": "它训练我进行批判性思考，并从多个角度分析问题。",
+"english": "It trained me to think critically and analyze problems from multiple perspectives.",
+"type": "sentence"
+},
+{
+"category": "Career/Aspiration",
+"chinese": "我想成为一名律师，帮助他人解决问题并维护权利。",
+"english": "I want to become a lawyer to help others solve problems and protect their rights.",
+"type": "sentence"
+},
+{
+"category": "Career/Aspiration",
+"chinese": "律师的薪酬通常较为优厚。",
+"english": "Lawyers are generally well compensated.",
+"type": "sentence"
+},
+{
+"category": "Career/Alternative",
+"chinese": "如果不为金钱所累，我会开一家宠物店，因为我很爱猫和狗。",
+"english": "If money were not a concern, I would open a pet shop because I love cats and dogs.",
+"type": "sentence"
+},
+{
+"category": "Leisure/Digital",
+"chinese": "空闲时我会刷短视频，并在社交媒体上和朋友聊天。",
+"english": "In my free time, I scroll on my phone to watch short videos and chat with friends on social media.",
+"type": "sentence"
+},
+{
+"category": "Leisure/Social",
+"chinese": "我也喜欢和朋友下午茶，聊聊近况。",
+"english": "I also like hanging out with friends for afternoon tea and small talk about our lives.",
+"type": "sentence"
+},
+{
+"category": "Music",
+"chinese": "我尤其喜欢粤语华语流行音乐。",
+"english": "I especially enjoy Cantonese Mandopop.",
+"type": "sentence"
+},
+{
+"category": "Music",
+"chinese": "听他们的歌时，我仿佛在与歌手对话。",
+"english": "Listening to their songs feels like having a conversation with the artists.",
+"type": "sentence"
+},
+{
+"category": "Reading",
+"chinese": "我不是爱阅读的人，很难长时间静下心看书。",
+"english": "I have never been a big fan of reading because it is hard for me to sit still for a long time.",
+"type": "sentence"
+},
+{
+"category": "Hobbies",
+"chinese": "在兴趣方面，我主要是个室内型的人。",
+"english": "I am primarily an indoor person in terms of hobbies.",
+"type": "sentence"
+},
+{
+"category": "Hobbies",
+"chinese": "我经常去健身房训练，也会在室内攀岩馆攀岩。",
+"english": "I work out at the gym and climb at an indoor climbing gym regularly.",
+"type": "sentence"
+},
+{
+"category": "Hobbies",
+"chinese": "我喜欢和朋友在商场或咖啡馆小聚。",
+"english": "I enjoy spending time with friends in shopping malls or cafes.",
+"type": "sentence"
+},
+{
+"category": "Hobbies/Plan",
+"chinese": "未来我打算尝试更多户外活动，比如徒步。",
+"english": "In the future, I plan to try more outdoor activities like hiking.",
+"type": "sentence"
+},
+{
+"category": "Pastimes",
+"chinese": "小时候我非常热爱舞蹈，也投入了很多时间和精力练习。",
+"english": "When I was young, I loved dancing and practiced very hard.",
+"type": "sentence"
+},
+{
+"category": "Health/Incident",
+"chinese": "高中时我练舞伤了腰，不得不放弃。",
+"english": "I injured my waist in high school while practicing and had to stop dancing.",
+"type": "sentence"
+},
+{
+"category": "Fitness",
+"chinese": "现在我仍然喜欢攀岩和力量训练等高强度活动。",
+"english": "I still enjoy high-energy activities like climbing and working out.",
+"type": "sentence"
+},
+{
+"category": "Hobbies/Value",
+"chinese": "兴趣爱好很重要，它们能帮助我们放松、带来快乐，并与同好相连。",
+"english": "Hobbies are essential because they help us relax, bring joy, and connect us with others.",
+"type": "sentence"
+},
+{
+"category": "Hobbies/Openness",
+"chinese": "我愿意学习新的爱好，比如徒步。",
+"english": "I am open to learning a new hobby such as hiking.",
+"type": "sentence"
+},
+{
+"category": "Routine/Daily",
+"chinese": "我的日常节奏比较稳定。",
+"english": "My days follow a steady rhythm.",
+"type": "sentence"
+},
+{
+"category": "Routine/Morning",
+"chinese": "我早上七点起床，吃完简单早餐会跑步三十分钟清醒头脑。",
+"english": "I get up at 7 a.m., have a quick breakfast, and go for a 30-minute run to clear my head.",
+"type": "sentence"
+},
+{
+"category": "Routine/Study",
+"chinese": "跑步后我会专注于听力等学习任务。",
+"english": "After running, I focus on listening exercises and other study tasks.",
+"type": "sentence"
+},
+{
+"category": "Routine/Fitness",
+"chinese": "临近中午我会去健身房训练。",
+"english": "By late morning, I go to the gym for a workout.",
+"type": "sentence"
+},
+{
+"category": "Routine/Afternoon",
+"chinese": "午饭后我会小憩，然后继续下午的学习。",
+"english": "After lunch, I take a short nap and continue studying in the afternoon.",
+"type": "sentence"
+},
+{
+"category": "Routine/Night",
+"chinese": "我会在晚上十一点前睡觉。",
+"english": "I go to bed before 11 p.m.",
+"type": "sentence"
+},
+{
+"category": "Schedule/Attitude",
+"chinese": "固定的作息能让我更高效、更有条理。",
+"english": "A consistent schedule helps me stay productive and organized.",
+"type": "sentence"
+},
+{
+"category": "Schedule/Balance",
+"chinese": "这样的安排确保我兼顾学习与健康。",
+"english": "This structure ensures I make time for both my studies and my health.",
+"type": "sentence"
+},
+{
+"category": "Morning/Preference",
+"chinese": "我的早晨充实而有意义。",
+"english": "My mornings are substantial and meaningful.",
+"type": "sentence"
+},
+{
+"category": "Evening/Preference",
+"chinese": "晚上我更喜欢看节目或短视频来放松。",
+"english": "In the evening, I prefer to watch shows or short videos to unwind.",
+"type": "sentence"
+},
+{
+"category": "Weekend",
+"chinese": "周末是我的休息日。",
+"english": "Weekends are my rest days.",
+"type": "sentence"
+},
+{
+"category": "Weekend",
+"chinese": "我喜欢和朋友逛街或在咖啡馆聊天。",
+"english": "I like to hang out with friends, go shopping, or chat in a cafe.",
+"type": "sentence"
+},
+{
+"category": "Sleep/Change",
+"chinese": "两个月前我经常熬夜，用手机每天超过七个小时。",
+"english": "Two months ago I often stayed up late and spent over seven hours a day on my phone.",
+"type": "sentence"
+},
+{
+"category": "Sleep/Change",
+"chinese": "为养成更健康的生活方式，我现在早睡并规律运动。",
+"english": "To build a healthier lifestyle, I now sleep early and exercise regularly.",
+"type": "sentence"
+},
+{
+"category": "Chronotype",
+"chinese": "我更喜欢早起，因为早上效率更高。",
+"english": "I prefer waking up early because I am more efficient in the morning.",
+"type": "sentence"
+},
+{
+"category": "Family",
+"chinese": "我家有六口人，包括父母、奶奶、弟弟和我。",
+"english": "There are six people in my family, including my parents, my grandmother, my younger brother, and me.",
+"type": "sentence"
+},
+{
+"category": "Family/Relationship",
+"chinese": "即使我们不常长谈，妈妈也总在很多方面支持我。",
+"english": "My mother supports me in many ways even if we do not always have long conversations.",
+"type": "sentence"
+},
+{
+"category": "Friends",
+"chinese": "作为在广州上学的学生，我大部分时间和朋友在一起。",
+"english": "As a student in Guangzhou, I spend most of my time with friends.",
+"type": "sentence"
+},
+{
+"category": "Relatives",
+"chinese": "我不常见亲戚，因为大家住在不同城市，各自有各自的事情要做。",
+"english": "I do not see my relatives often because we live in different cities and have our own commitments.",
+"type": "sentence"
+},
+{
+"category": "Relatives",
+"chinese": "我们通常在春节和中秋等特殊时刻聚餐叙旧。",
+"english": "We usually gather for dinner and catch up on special occasions such as the Spring Festival and the Mid-Autumn Festival.",
+"type": "sentence"
+},
+{
+"category": "Friends/University",
+"chinese": "我每天都会见到大学同学，因为我们一起生活和学习。",
+"english": "I meet my university friends every day because we live and study together.",
+"type": "sentence"
+},
+{
+"category": "Friends/Old",
+"chinese": "老朋友则多在假期见面，因为我们在不同城市读书。",
+"english": "I meet my old friends during vacations because we study in different cities.",
+"type": "sentence"
+},
+{
+"category": "Social/Activities",
+"chinese": "大多数时候我们在咖啡馆或家里小聚，边喝咖啡边聊天。",
+"english": "Most of the time we hang out at a cafe or someone’s home and catch up over coffee.",
+"type": "sentence"
+},
+{
+"category": "Social/Activities",
+"chinese": "有时我们会出去吃饭或看电影。",
+"english": "Sometimes we go out for a meal or watch a movie.",
+"type": "sentence"
+},
+{
+"category": "Friends/Preference",
+"chinese": "我更喜欢小圈子，重质不重量。",
+"english": "I prefer a small circle of friends because quality matters more than quantity.",
+"type": "sentence"
+},
+{
+"category": "Food/Sweets",
+"chinese": "我很爱甜食，几乎从不拒绝蛋糕。",
+"english": "I have a sweet tooth and can never say no to cake.",
+"type": "sentence"
+},
+{
+"category": "Food/Sweets",
+"chinese": "我喜欢去咖啡馆尝试不同的蛋糕和甜点。",
+"english": "I like visiting cafes to try different cakes and desserts.",
+"type": "sentence"
+},
+{
+"category": "Cooking/Skill",
+"chinese": "我厨艺不佳，更愿意享受美食而不是自己做。",
+"english": "I am not a good cook and prefer to enjoy food rather than cook it myself.",
+"type": "sentence"
+},
+{
+"category": "Family/Cooking",
+"chinese": "我妈妈和奶奶负责做饭，她们的菜非常好吃。",
+"english": "My mother and grandmother cook for the family, and their dishes are delicious.",
+"type": "sentence"
+},
+{
+"category": "Eating/InOut",
+"chinese": "在家吃饭很温暖，也能品尝到家常味道。",
+"english": "Eating at home feels warm and lets me enjoy local dishes.",
+"type": "sentence"
+},
+{
+"category": "Eating/InOut",
+"chinese": "我也喜欢在外就餐，尝试各地菜式。",
+"english": "I also like eating out to try cuisines from different regions.",
+"type": "sentence"
+},
+{
+"category": "Food/Favorite",
+"chinese": "我最喜欢的菜是番茄炒蛋，这是一道经典的中式家常菜。",
+"english": "My favorite dish is fried tomatoes and eggs, a classic Chinese dish.",
+"type": "sentence"
+},
+{
+"category": "Food/Regional",
+"chinese": "这道菜在不同地区有不同的口味。",
+"english": "The dish tastes different in different regions.",
+"type": "sentence"
+},
+{
+"category": "Food/Regional",
+"chinese": "华南地区常做得偏甜，我也更喜欢甜口的版本。",
+"english": "Southern China often prefers a sweeter version, and I like the sweet one.",
+"type": "sentence"
+},
+{
+"category": "Cooking/Learning",
+"chinese": "我在初中时学会了做番茄炒蛋等简单菜式。",
+"english": "I learned to cook simple dishes like fried tomatoes and eggs in junior high school.",
+"type": "sentence"
+},
+{
+"category": "Cooking/Learning",
+"chinese": "尽管失败过几次，我仍不断尝试提高。",
+"english": "Although I failed several times, I kept trying to improve.",
+"type": "sentence"
+},
+{
+"category": "Food/Dislike",
+"chinese": "我不喜欢香菜，但很多菜都会加入这种香草调味。",
+"english": "I dislike coriander, which many dishes include as a flavoring herb.",
+"type": "sentence"
+},
+{
+"category": "Shopping/Online",
+"chinese": "我常在空闲时刷淘宝等购物应用。",
+"english": "I often scroll through shopping apps like Taobao in my leisure time.",
+"type": "sentence"
+},
+{
+"category": "Shopping/Frequency",
+"chinese": "我大约每个季度买一次衣服，通常在换季时购买。",
+"english": "I buy clothes about once a quarter, usually at the start of a season.",
+"type": "sentence"
+},
+{
+"category": "Shopping/Preference",
+"chinese": "我更喜欢网购，因为价格更低，比价更方便。",
+"english": "I prefer shopping online because prices are lower and comparison is convenient.",
+"type": "sentence"
+},
+{
+"category": "Style",
+"chinese": "我通常穿同色系的简约款式。",
+"english": "I usually wear simple clothes in the same color scheme.",
+"type": "sentence"
+},
+{
+"category": "Fashion/Attitude",
+"chinese": "我关注潮流，但不会把所有流行款都买下。",
+"english": "I follow fashion trends but do not buy every trendy item.",
+"type": "sentence"
+},
+{
+"category": "Fashion/Attitude",
+"chinese": "作为学生，我的预算会限制我在时尚上的花费。",
+"english": "As a student, my budget limits how much I can spend on fashion.",
+"type": "sentence"
+},
+{
+"category": "Shopping/Online",
+"chinese": "网店的款式和颜色往往比实体店更多。",
+"english": "Online shops offer more styles and colors than physical stores.",
+"type": "sentence"
+},
+{
+"category": "Weather/City",
+"chinese": "我所在城市的天气多变，难以准确预报。",
+"english": "The weather in my city is variable and hard to forecast accurately.",
+"type": "sentence"
+},
+{
+"category": "Weather/City",
+"chinese": "中午还晴空万里，过一小时可能就暴雨雷电。",
+"english": "It can be sunny at noon and stormy an hour later.",
+"type": "sentence"
+},
+{
+"category": "Weather/Preference",
+"chinese": "我最喜欢晴天，阳光会让我心情更好。",
+"english": "I like sunny days because sunlight boosts my mood.",
+"type": "sentence"
+},
+{
+"category": "Weather/Preference",
+"chinese": "遇到晴天我通常会到户外走走，享受阳光。",
+"english": "On sunny days, I like to walk outside and enjoy the sunshine.",
+"type": "sentence"
+},
+{
+"category": "Weather/Preference",
+"chinese": "我更喜欢炎热的天气，因为华南家庭普遍没有集中供暖。",
+"english": "I prefer hot weather because homes in southern China often lack central heating.",
+"type": "sentence"
+},
+{
+"category": "Season",
+"chinese": "我最喜欢秋天，气温适中而且少雨。",
+"english": "I like autumn most because the temperature is moderate and it rains less.",
+"type": "sentence"
+},
+{
+"category": "Mood/Weather",
+"chinese": "下雨天会让我焦虑和无精打采，阳光则让我开心。",
+"english": "Rainy days make me anxious and unmotivated, while sunshine makes me happy.",
+"type": "sentence"
+},
+{
+"category": "Devices/Phone",
+"chinese": "我每天都用手机，它方便且功能多样。",
+"english": "I use my mobile phone every day because it is convenient and multifunctional.",
+"type": "sentence"
+},
+{
+"category": "Social Media",
+"chinese": "我常常在抖音和小红书上无目的地刷内容，容易忘记时间。",
+"english": "I often scroll aimlessly on TikTok and Rednotes and lose track of time.",
+"type": "sentence"
+},
+{
+"category": "Devices/Preference",
+"chinese": "写论文或做研究时我更喜欢用电脑，屏幕更大便于查资料。",
+"english": "I prefer a computer for research and writing because of the larger screen.",
+"type": "sentence"
+},
+{
+"category": "Devices/Preference",
+"chinese": "网购或聊天我更常用手机，因为更方便。",
+"english": "For online shopping and chatting, I use my phone because it is more convenient.",
+"type": "sentence"
+},
+{
+"category": "Social Media/Use",
+"chinese": "我喜欢每天分享生活并与亲友聊天。",
+"english": "I like sharing my life and chatting with friends and family every day.",
+"type": "sentence"
+},
+{
+"category": "App/Preference",
+"chinese": "我最喜欢的小红书，是中国很受欢迎的社交平台。",
+"english": "My favorite app is Rednotes, a popular social platform in China.",
+"type": "sentence"
+},
+{
+"category": "App/Features",
+"chinese": "在那上面可以发照片、分享生活，还能收获点赞和评论。",
+"english": "You can post photos, share your life, and receive likes and comments there.",
+"type": "sentence"
+},
+{
+"category": "App/Features",
+"chinese": "它像一本百科，能找到产品指南、真实体验，甚至旅行小窍门。",
+"english": "It feels like an encyclopedia with product guides, real user experiences, and even travel tips.",
+"type": "sentence"
+},
+{
+"category": "Technology/Dependence",
+"chinese": "人们在家务和学习工作中都依赖家电和人工智能工具。",
+"english": "People rely on appliances and AI tools for work and study.",
+"type": "sentence"
+},
+{
+"category": "Technology/Impact",
+"chinese": "技术旨在造福人类并改善日常生活。",
+"english": "Technology is designed to benefit humans and improve daily life.",
+"type": "sentence"
+},
+{
+"category": "Technology/Benefits",
+"chinese": "洗衣机、洗碗机和清洁机器人能节省家务时间。",
+"english": "Washing machines, dishwashers, and cleaning robots save time on housework.",
+"type": "sentence"
+},
+{
+"category": "Technology/Benefits",
+"chinese": "手机让获取知识和与他人联系变得容易。",
+"english": "Mobile phones make it easy to access knowledge and stay in touch with others.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "我的舞蹈老师是省内著名的艺术家。",
+"english": "My dance teacher is a famous artist in my province.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "她在我幼儿园时教舞，并鼓励我系统学习。",
+"english": "She taught dance at my kindergarten and encouraged me to take lessons.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "我跟她学舞直到高中，期间获得了很多奖项。",
+"english": "I learned dance from her and won many prizes until high school.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "她很有创造力，编创了许多获奖作品。",
+"english": "She is creative and has choreographed many award-winning dances.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "在我感到压力或难过时，她也常常开导我。",
+"english": "She guided me through difficulties when I felt stressed or upset.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "她从籍籍无名的舞者，通过努力成长为备受尊敬的省级艺术家。",
+"english": "She rose from an unknown dancer to a respected provincial artist through hard work.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Dance",
+"chinese": "在我遇到挑战时，她的鼓励让我心怀感激。",
+"english": "I am deeply grateful for her encouragement during challenging times.",
+"type": "sentence"
+},
+{
+"category": "Friend",
+"chinese": "我和一位要好的朋友相识大约十年，自初中起就是同学。",
+"english": "I have known my close friend for about ten years since junior high school.",
+"type": "sentence"
+},
+{
+"category": "Friend",
+"chinese": "虽然我们在不同省份上大学，但一直保持联系。",
+"english": "Although we study in different provinces, we keep in touch.",
+"type": "sentence"
+},
+{
+"category": "Friend/Emotion",
+"chinese": "当我压力大或失望时，她总是支持我。",
+"english": "She supported me when I felt stressed and disappointed.",
+"type": "sentence"
+},
+{
+"category": "Friend/Emotion",
+"chinese": "和她聊天会让我回到初中的时光，许多回忆涌上心头。",
+"english": "Talking with her brings back many memories from junior high school.",
+"type": "sentence"
+},
+{
+"category": "Friend/Emotion",
+"chinese": "我们一年只见一面，所以我很想念她。",
+"english": "We only meet once a year, so I miss her a lot.",
+"type": "sentence"
+},
+{
+"category": "Friend/Traits",
+"chinese": "她不太会安慰人，但她的陪伴能让我安心。",
+"english": "She is not good at comforting others, but her presence puts me at ease.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Math",
+"chinese": "李老师是我高中时一位尽责的数学老师。",
+"english": "Mr. Li was my dedicated mathematics teacher in high school.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Math",
+"chinese": "他用生活实例讲解复杂概念，让数学变得有趣。",
+"english": "He explained complex concepts with real-life examples and made the subject fun.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Math",
+"chinese": "他课后为同学补习，并鼓励我们探索课本之外的知识。",
+"english": "He tutored students after class and encouraged us to explore beyond textbooks.",
+"type": "sentence"
+},
+{
+"category": "Teacher/Math",
+"chinese": "我非常尊敬他，他不仅提升了我的成绩，还激发了我对数学的兴趣。",
+"english": "I respect him for improving my grades and sparking my interest in math.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "我很敬佩世界级乒乓球运动员孙颖莎。",
+"english": "I admire Sun Yingsha, a world-class Chinese table tennis player.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "我是在观看世乒赛时第一次了解她的。",
+"english": "I first discovered her while watching the World Table Tennis Championships.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "她反应迅速、战术出色、临场冷静，表现十分突出。",
+"english": "Her fast reflexes, strategic play, and calmness under pressure make her stand out.",
+"type": "sentence"
+},
+{
+"category": "Sports/Figure",
+"chinese": "她训练非常刻苦，并不断精进技术。",
+"english": "She works extremely hard and keeps improving her technique.",
+"type": "sentence"
+}
+]
