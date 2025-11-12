@@ -844,7 +844,744 @@
 "chinese": "和朋友小聚能缓解我的疲惫与焦虑。",
 "english": "Meeting friends helps relieve my tiredness and anxiety.",
 "type": "sentence"
+},
+{
+"category": "Hometown",
+"chinese": "离广州不远的小城",
+"english": ["a small city not far from Guangzhou", "a small city close to Guangzhou"],
+"type": "vocabulary"
+},
+{
+"category": "City/Infra",
+"chinese": "完善的交通网络",
+"english": ["a well-developed transport network", "an extensive transportation system"],
+"type": "vocabulary"
+},
+{
+"category": "Cost/Prices",
+"chinese": "物价亲民",
+"english": ["affordable goods", "wallet-friendly prices"],
+"type": "vocabulary"
+},
+{
+"category": "Travel/Attraction",
+"chinese": "著名旅游胜地",
+"english": ["a well-known tourist destination", "a famous travel spot"],
+"type": "vocabulary"
+},
+{
+"category": "Nature",
+"chinese": "清新的空气",
+"english": ["fresh air", "crisp air"],
+"type": "vocabulary"
+},
+{
+"category": "Nature",
+"chinese": "清澈的溪流",
+"english": ["clear streams", "pristine brooks"],
+"type": "vocabulary"
+},
+{
+"category": "Well-being",
+"chinese": "清空杂念",
+"english": ["clear my head", "declutter my mind"],
+"type": "vocabulary"
+},
+{
+"category": "Education",
+"chinese": "大四法学学生",
+"english": ["a senior law student", "a final-year law student"],
+"type": "vocabulary"
+},
+{
+"category": "Education/Plan",
+"chinese": "申请硕士学位",
+"english": ["apply for a master’s degree", "apply to a master’s program"],
+"type": "vocabulary"
+},
+{
+"category": "Education/Goal",
+"chinese": "进一步深造",
+"english": ["further my studies", "pursue further education"],
+"type": "vocabulary"
+},
+{
+"category": "Career",
+"chinese": "良好的就业前景",
+"english": ["strong employment prospects", "good career outlook"],
+"type": "vocabulary"
+},
+{
+"category": "Law/Study",
+"chinese": "分析复杂案件",
+"english": ["analyze complex cases", "work through intricate cases"],
+"type": "vocabulary"
+},
+{
+"category": "Achievement",
+"chinese": "成就感",
+"english": ["a sense of achievement", "a feeling of accomplishment"],
+"type": "vocabulary"
+},
+{
+"category": "Study/Method",
+"chinese": "将所学与实践结合",
+"english": ["combine learning with practice", "apply theory to practice"],
+"type": "vocabulary"
+},
+{
+"category": "Cognition",
+"chinese": "批判性思维",
+"english": ["think critically", "use critical thinking"],
+"type": "vocabulary"
+},
+{
+"category": "Cognition",
+"chinese": "多角度分析问题",
+"english": ["analyze problems from multiple perspectives", "view issues from different angles"],
+"type": "vocabulary"
+},
+{
+"category": "Career/Aspiration",
+"chinese": "维护他人权利",
+"english": ["protect others’ rights", "safeguard people’s rights"],
+"type": "vocabulary"
+},
+{
+"category": "Compensation",
+"chinese": "薪酬优厚",
+"english": ["well compensated", "well paid"],
+"type": "vocabulary"
+},
+{
+"category": "Hypothetical",
+"chinese": "若金钱不是问题",
+"english": ["if money were not a concern", "if money were no object"],
+"type": "vocabulary"
+},
+{
+"category": "Leisure/Social",
+"chinese": "下午茶小聚",
+"english": ["afternoon tea hangout", "tea-time get-together"],
+"type": "vocabulary"
+},
+{
+"category": "Conversation",
+"chinese": "闲聊近况",
+"english": ["have small talk about our lives", "chat about recent life updates"],
+"type": "vocabulary"
+},
+{
+"category": "Music",
+"chinese": "情感共鸣",
+"english": ["emotional connection", "resonate emotionally"],
+"type": "vocabulary"
+},
+{
+"category": "Preference",
+"chinese": "室内型爱好者",
+"english": ["an indoor person", "primarily an indoor type"],
+"type": "vocabulary"
+},
+{
+"category": "Fitness",
+"chinese": "高能量活动",
+"english": ["high-energy activities", "high-intensity activities"],
+"type": "vocabulary"
+},
+{
+"category": "Routine",
+"chinese": "稳定的节奏",
+"english": ["a steady rhythm", "a stable routine"],
+"type": "vocabulary"
+},
+{
+"category": "Routine",
+"chinese": "午后小憩",
+"english": ["a short nap after lunch", "an afternoon power nap"],
+"type": "vocabulary"
+},
+{
+"category": "Time-Management",
+"chinese": "固定作息",
+"english": ["a consistent schedule", "a regular routine"],
+"type": "vocabulary"
+},
+{
+"category": "Well-being",
+"chinese": "放松身心",
+"english": ["unwind", "wind down"],
+"type": "vocabulary"
+},
+{
+"category": "Habits",
+"chinese": "熬夜刷手机",
+"english": ["stay up late on my phone", "scroll late into the night"],
+"type": "vocabulary"
+},
+{
+"category": "Lifestyle",
+"chinese": "养成更健康的生活方式",
+"english": ["build a healthier lifestyle", "adopt a healthier routine"],
+"type": "vocabulary"
+},
+{
+"category": "Relationships",
+"chinese": "保持联系",
+"english": ["keep in touch", "stay connected"],
+"type": "vocabulary"
+},
+{
+"category": "Relationships",
+"chinese": "叙旧",
+"english": ["catch up", "get up to speed with each other"],
+"type": "vocabulary"
+},
+{
+"category": "Friendship",
+"chinese": "小圈子更好",
+"english": ["prefer a small circle of friends", "value quality over quantity in friends"],
+"type": "vocabulary"
+},
+{
+"category": "Fashion",
+"chinese": "关注潮流但理性消费",
+"english": ["follow fashion trends but spend wisely", "track trends without buying everything"],
+"type": "vocabulary"
+},
+{
+"category": "Home/Climate",
+"chinese": "缺乏集中供暖",
+"english": ["lack central heating", "without central heating"],
+"type": "vocabulary"
+},
+{
+"category": "Mood",
+"chinese": "阳光提升情绪",
+"english": ["sunlight boosts my mood", "sunshine lifts my spirits"],
+"type": "vocabulary"
+},
+{
+"category": "Media Use",
+"chinese": "无目的地刷屏",
+"english": ["scroll aimlessly", "mindlessly browse feeds"],
+"type": "vocabulary"
+},
+{
+"category": "Device Choice",
+"chinese": "更大的屏幕更适合研究",
+"english": ["a larger screen suits research", "a bigger display is better for study"],
+"type": "vocabulary"
+},
+{
+"category": "Communication",
+"chinese": "与他人保持联系",
+"english": ["stay in touch with others", "keep connected with people"],
+"type": "vocabulary"
+},
+{
+"category": "Art/Dance",
+"chinese": "获奖编舞作品",
+"english": ["award-winning choreographies", "prize-winning dance pieces"],
+"type": "vocabulary"
+},
+{
+"category": "Art/Dance",
+"chinese": "从无名到受尊敬",
+"english": ["rise from unknown to respected", "grow from obscure to acclaimed"],
+"type": "vocabulary"
+},
+{
+"category": "Performance",
+"chinese": "临场冷静",
+"english": ["calm under pressure", "composed in high-pressure moments"],
+"type": "vocabulary"
+},
+{
+"category": "Growth",
+"chinese": "不断精进技术",
+"english": ["keep improving technique", "continually refine skills"],
+"type": "vocabulary"
+},
+{
+"category": "Planning",
+"chinese": "视任务而定",
+"english": ["it depends on the task", "preference varies by task"],
+"type": "vocabulary"
+},
+{
+"category": "Teamwork",
+"chinese": "与他人协作更高效",
+"english": ["collaborating with others is more effective", "teamwork is more efficient for tough tasks"],
+"type": "vocabulary"
+},
+{
+"category": "Daily Life",
+"chinese": "安排时间兼顾学习与健康",
+"english": ["make time for both study and health", "balance academics and well-being"],
+"type": "vocabulary"
+},
+{
+"category": "Weather",
+"chinese": "天气多变难以预测",
+"english": ["variable weather that’s hard to forecast", "changeable weather that’s hard to predict"],
+"type": "vocabulary"
+},
+{
+"category": "Family/Meals",
+"chinese": "在特殊节日聚餐",
+"english": ["gather for dinner on special occasions", "family dinners on festivals"],
+"type": "vocabulary"
+},
+{
+"category": "Shopping",
+"chinese": "方便比价",
+"english": ["compare prices conveniently", "easily compare prices"],
+"type": "vocabulary"
+},
+{
+"category": "Style",
+"chinese": "同色系穿搭",
+"english": ["the same color scheme", "a monochromatic palette"],
+"type": "vocabulary"
+},
+{
+"category": "App/Platform",
+"chinese": "中国流行的社交平台",
+"english": ["a popular social platform in China", "a widely-used Chinese social app"],
+"type": "vocabulary"
+},
+{
+"category": "Content/Guide",
+"chinese": "像百科全书一样的信息",
+"english": ["encyclopedic information", "guide-like, all-in-one info"],
+"type": "vocabulary"
+},
+{
+"category": "Nature",
+"chinese": "宁静的环境",
+"english": ["a peaceful environment", "a tranquil setting"],
+"type": "vocabulary"
+},
+{
+"category": "Nature",
+"chinese": "大自然的声响",
+"english": ["the sounds of nature", "nature’s soundtrack"],
+"type": "vocabulary"
+},
+{
+"category": "Nature",
+"chinese": "翠绿的树木",
+"english": ["lush green trees", "verdant trees"],
+"type": "vocabulary"
+},
+{
+"category": "Routine",
+"chinese": "三十分钟的晨跑",
+"english": ["a 30-minute morning run", "a half-hour run in the morning"],
+"type": "vocabulary"
+},
+{
+"category": "Routine",
+"chinese": "十一点前就寝",
+"english": ["go to bed before 11 p.m.", "turn in before 11"],
+"type": "vocabulary"
+},
+{
+"category": "Study",
+"chinese": "听力练习",
+"english": ["listening exercises", "listening practice"],
+"type": "vocabulary"
+},
+{
+"category": "Study/Law",
+"chinese": "适用多条法条",
+"english": ["apply multiple legal provisions", "apply many articles of law"],
+"type": "vocabulary"
+},
+{
+"category": "Career/Aspiration",
+"chinese": "开一家宠物店",
+"english": ["open a pet shop", "start a pet store"],
+"type": "vocabulary"
+},
+{
+"category": "Leisure/Social",
+"chinese": "与朋友闲聊",
+"english": ["have a small talk with friends", "chat casually with friends"],
+"type": "vocabulary"
+},
+{
+"category": "Music",
+"chinese": "仿佛与歌手对话",
+"english": ["feel like talking with the artists", "feel in conversation with the singers"],
+"type": "vocabulary"
+},
+{
+"category": "Reading",
+"chinese": "很难长时间静坐",
+"english": ["hard to sit still for long", "difficult to stay seated for a long time"],
+"type": "vocabulary"
+},
+{
+"category": "Fitness",
+"chinese": "室内攀岩馆",
+"english": ["an indoor climbing gym", "an indoor climbing facility"],
+"type": "vocabulary"
+},
+{
+"category": "Well-being",
+"chinese": "放松身心看节目",
+"english": ["wind down with shows", "unwind by watching short videos"],
+"type": "vocabulary"
+},
+{
+"category": "Habits",
+"chinese": "熬夜玩手机",
+"english": ["stay up late on my phone", "be up late on the phone"],
+"type": "vocabulary"
+},
+{
+"category": "Habits",
+"chinese": "每天刷手机数小时",
+"english": ["spend hours a day on my phone", "be on my phone for hours daily"],
+"type": "vocabulary"
+},
+{
+"category": "Lifestyle",
+"chinese": "规律运动",
+"english": ["exercise regularly", "work out on a regular basis"],
+"type": "vocabulary"
+},
+{
+"category": "Relationships",
+"chinese": "一年见一次",
+"english": ["meet once a year", "see each other once a year"],
+"type": "vocabulary"
+},
+{
+"category": "Friendship",
+"chinese": "在咖啡中叙旧",
+"english": ["catch up over coffee", "reconnect over a coffee"],
+"type": "vocabulary"
+},
+{
+"category": "Shopping/Online",
+"chinese": "随意浏览购物应用",
+"english": ["aimlessly browse shopping apps", "scroll shopping apps at random"],
+"type": "vocabulary"
+},
+{
+"category": "Shopping/Online",
+"chinese": "比实体店更便宜",
+"english": ["cheaper than in-store", "lower than in physical shops"],
+"type": "vocabulary"
+},
+{
+"category": "Fashion",
+"chinese": "关注潮流但不盲从",
+"english": ["follow trends without overbuying", "track fashion but stay selective"],
+"type": "vocabulary"
+},
+{
+"category": "Food",
+"chinese": "家常味道",
+"english": ["home-style flavor", "home-cooked taste"],
+"type": "vocabulary"
+},
+{
+"category": "Food",
+"chinese": "各地区口味不同",
+"english": ["regional variations in taste", "different flavors across regions"],
+"type": "vocabulary"
+},
+{
+"category": "Food/Preference",
+"chinese": "不喜欢香菜",
+"english": ["dislike coriander", "not a fan of cilantro"],
+"type": "vocabulary"
+},
+{
+"category": "Weather/Mood",
+"chinese": "阳光让人心情更好",
+"english": ["sunshine improves my mood", "sunlight lifts my spirits"],
+"type": "vocabulary"
+},
+{
+"category": "Weather/City",
+"chinese": "一小时后暴雨雷电",
+"english": ["stormy an hour later", "a thunderstorm an hour later"],
+"type": "vocabulary"
+},
+{
+"category": "Devices/Phone",
+"chinese": "多功能设备",
+"english": ["a multifunctional device", "an all-in-one device"],
+"type": "vocabulary"
+},
+{
+"category": "Media Use",
+"chinese": "忘记时间",
+"english": ["lose track of time", "forget the time"],
+"type": "vocabulary"
+},
+{
+"category": "Platforms",
+"chinese": "常用平台",
+"english": ["go-to platforms", "regularly used platforms"],
+"type": "vocabulary"
+},
+{
+"category": "Communication",
+"chinese": "与家人朋友保持联系",
+"english": ["stay in touch with family and friends", "keep connected with loved ones"],
+"type": "vocabulary"
+},
+{
+"category": "App/Features",
+"chinese": "获取真实使用体验",
+"english": ["find real user experiences", "access firsthand usage reviews"],
+"type": "vocabulary"
+},
+{
+"category": "Teaching/Teacher",
+"chinese": "课后辅导学生",
+"english": ["tutor students after class", "offer after-class tutoring"],
+"type": "vocabulary"
+},
+{
+"category": "Teaching/Method",
+"chinese": "用生活实例讲解",
+"english": ["explain with real-life examples", "illustrate with everyday cases"],
+"type": "vocabulary"
+},
+{
+"category": "Performance",
+"chinese": "反应迅速、战术出色",
+"english": ["quick reflexes and smart tactics", "fast reactions and strategic play"],
+"type": "vocabulary"
+},
+{
+"category": "Growth",
+"chinese": "不断提升技术水平",
+"english": ["keep improving her technique", "continually raise her skill level"],
+"type": "vocabulary"
+},
+{
+"category": "Routine",
+"chinese": "快速早餐",
+"english": ["a quick breakfast", "a light breakfast"],
+"type": "vocabulary"
+},
+{
+"category": "Schedule",
+"chinese": "高效且有条理",
+"english": ["productive and organized", "efficient and well-structured"],
+"type": "vocabulary"
+},
+{
+"category": "Habits",
+"chinese": "早睡",
+"english": ["sleep early", "turn in early"],
+"type": "vocabulary"
+},
+{
+"category": "Digital/Use",
+"chinese": "过度使用手机",
+"english": ["overuse my phone", "spend too long on my phone"],
+"type": "vocabulary"
+},
+{
+"category": "Conversation",
+"chinese": "长时间的深入交流",
+"english": ["long, deep conversations", "extended heart-to-heart talks"],
+"type": "vocabulary"
+},
+{
+"category": "Friends/Uni",
+"chinese": "一起生活和学习",
+"english": ["live and study together", "share both living and study spaces"],
+"type": "vocabulary"
+},
+{
+"category": "Social",
+"chinese": "在咖啡中叙旧",
+"english": ["catch up over coffee", "reconnect over a coffee"],
+"type": "vocabulary"
+},
+{
+"category": "Food/Home",
+"chinese": "家常菜",
+"english": ["home-cooked dishes", "homestyle dishes"],
+"type": "vocabulary"
+},
+{
+"category": "Food/Out",
+"chinese": "外出就餐",
+"english": ["eat out", "dine out"],
+"type": "vocabulary"
+},
+{
+"category": "Cuisine",
+"chinese": "经典菜",
+"english": ["a classic dish", "a signature staple"],
+"type": "vocabulary"
+},
+{
+"category": "Food/Prep",
+"chinese": "挑出香菜",
+"english": ["pick out the cilantro", "remove the coriander"],
+"type": "vocabulary"
+},
+{
+"category": "Shopping/Time",
+"chinese": "换季时",
+"english": ["at the change of season", "at the start of a new season"],
+"type": "vocabulary"
+},
+{
+"category": "Weather",
+"chinese": "晴空万里",
+"english": ["clear skies", "a cloudless sky"],
+"type": "vocabulary"
+},
+{
+"category": "Mood/Weather",
+"chinese": "感到焦虑和无精打采",
+"english": ["feel anxious and unmotivated", "feel uneasy and low-energy"],
+"type": "vocabulary"
+},
+{
+"category": "App/Use",
+"chinese": "忘记时间",
+"english": ["lose track of time", "forget the time"],
+"type": "vocabulary"
+},
+{
+"category": "Platform/Info",
+"chinese": "实用旅行小贴士",
+"english": ["practical travel tips", "handy travel pointers"],
+"type": "vocabulary"
+},
+{
+"category": "Teaching",
+"chinese": "尽责的老师",
+"english": ["a dedicated teacher", "a committed instructor"],
+"type": "vocabulary"
+},
+{
+"category": "Teaching/Method",
+"chinese": "用生活实例解释",
+"english": ["explain with real-life examples", "illustrate with everyday cases"],
+"type": "vocabulary"
+},
+{
+"category": "Motivation",
+"chinese": "激发兴趣",
+"english": ["spark my interest", "ignite my curiosity"],
+"type": "vocabulary"
+},
+{
+"category": "Recognition",
+"chinese": "获得许多奖项",
+"english": ["win many prizes", "earn numerous awards"],
+"type": "vocabulary"
+},
+{
+"category": "Support",
+"chinese": "在困难时鼓励我",
+"english": ["encourage me during difficulties", "cheer me on when things are hard"],
+"type": "vocabulary"
+},
+{
+"category": "Calm",
+"chinese": "让我安心",
+"english": ["put me at ease", "make me feel at peace"],
+"type": "vocabulary"
+},
+{
+"category": "Work Ethic",
+"chinese": "勤奋刻苦",
+"english": ["work extremely hard", "have a strong work ethic"],
+"type": "vocabulary"
+},
+{
+"category": "Performance/Sport",
+"chinese": "在压力下保持冷静",
+"english": ["stay calm under pressure", "remain composed under pressure"],
+"type": "vocabulary"
+},
+{
+"category": "Law/Study",
+"chinese": "把理论用于实践",
+"english": ["apply theory to practice", "translate theory into practice"],
+"type": "vocabulary"
+},
+{
+"category": "Cognition",
+"chinese": "多角度看问题",
+"english": ["view issues from different angles", "see problems from multiple perspectives"],
+"type": "vocabulary"
+},
+{
+"category": "Daily/Rhythm",
+"chinese": "稳定的作息",
+"english": ["a steady routine", "a consistent daily rhythm"],
+"type": "vocabulary"
+},
+{
+"category": "Rest",
+"chinese": "周末休息日",
+"english": ["weekend rest days", "rest days on weekends"],
+"type": "vocabulary"
+},
+{
+"category": "Fitness",
+"chinese": "规律去健身房",
+"english": ["go to the gym regularly", "hit the gym on a regular basis"],
+"type": "vocabulary"
+},
+{
+"category": "Music/Genre",
+"chinese": "粤语华语流行音乐",
+"english": ["Cantonese Mandopop", "Cantonese pop music"],
+"type": "vocabulary"
+},
+{
+"category": "Preference",
+"chinese": "更喜欢小圈子朋友",
+"english": ["prefer a small circle of friends", "favor a tight-knit friend group"],
+"type": "vocabulary"
+},
+{
+"category": "Devices",
+"chinese": "大屏设备更利于研究",
+"english": ["a larger screen is better for research", "a bigger display suits academic work"],
+"type": "vocabulary"
+},
+{
+"category": "Home/Comfort",
+"chinese": "在家感到温暖",
+"english": ["feel warm at home", "a warm feeling at home"],
+"type": "vocabulary"
+},
+{
+"category": "Outings",
+"chinese": "与朋友逛街小聚",
+"english": ["go shopping and hang out with friends", "shop and meet up with friends"],
+"type": "vocabulary"
+},
+{
+"category": "Career/Values",
+"chinese": "帮助他人维护权利",
+"english": ["help others protect their rights", "assist people in safeguarding rights"],
+"type": "vocabulary"
+},
+{
+"category": "Health",
+"chinese": "提高生活质量",
+"english": ["improve quality of life", "enhance quality of life"],
+"type": "vocabulary"
 }
-
 
 ]
