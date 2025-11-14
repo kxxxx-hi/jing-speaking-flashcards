@@ -1582,6 +1582,832 @@
 "chinese": "提高生活质量",
 "english": ["improve quality of life", "enhance quality of life"],
 "type": "vocabulary"
-}
+},
+  {
+    "verbGroup": "put",
+    "chinese": "我早上起床后，先穿上衣服，然后打开电视，最后把东西收好。",
+    "english": "After I get up in the morning, I first put on my clothes, then put on the TV, and finally put away my things.",
+    "phrasalVerbs": [
+      { "chinese": "穿上", "english": "put on" },
+      { "chinese": "打开", "english": "put on" },
+      { "chinese": "收好", "english": "put away" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "put",
+    "chinese": "会议被推迟了，因为我们需要忍受这些困难，并且把计划整理好。",
+    "english": "The meeting was put off because we need to put up with these difficulties and put together the plan.",
+    "phrasalVerbs": [
+      { "chinese": "推迟", "english": "put off" },
+      { "chinese": "忍受", "english": "put up with" },
+      { "chinese": "整理", "english": "put together" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "get",
+    "chinese": "我每天早上六点起床，进入办公室，然后和同事相处融洽。",
+    "english": "I get up at six every morning, get in the office, and then get on well with my colleagues.",
+    "phrasalVerbs": [
+      { "chinese": "起床", "english": "get up" },
+      { "chinese": "进入", "english": "get in" },
+      { "chinese": "相处融洽", "english": "get on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "get",
+    "chinese": "他克服了困难，打通了电话，并且从疾病中恢复过来。",
+    "english": "He got over the difficulties, got through on the phone, and got over his illness.",
+    "phrasalVerbs": [
+      { "chinese": "克服", "english": "get over" },
+      { "chinese": "打通", "english": "get through" },
+      { "chinese": "恢复", "english": "get over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "take",
+    "chinese": "飞机起飞了，他脱下外套，开始从事新的工作。",
+    "english": "The plane took off, he took off his coat, and started to take up a new job.",
+    "phrasalVerbs": [
+      { "chinese": "起飞", "english": "take off" },
+      { "chinese": "脱下", "english": "take off" },
+      { "chinese": "从事", "english": "take up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "take",
+    "chinese": "他接管了公司，带走了文件，并且收回了之前说的话。",
+    "english": "He took over the company, took away the documents, and took back what he said before.",
+    "phrasalVerbs": [
+      { "chinese": "接管", "english": "take over" },
+      { "chinese": "带走", "english": "take away" },
+      { "chinese": "收回", "english": "take back" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "make",
+    "chinese": "他编造了一个故事来弥补错误，并且确保一切顺利。",
+    "english": "He made up a story to make up for the mistake and make sure everything goes well.",
+    "phrasalVerbs": [
+      { "chinese": "编造", "english": "make up" },
+      { "chinese": "弥补", "english": "make up for" },
+      { "chinese": "确保", "english": "make sure" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "go",
+    "chinese": "会议继续进行，灯突然熄灭了，然后他仔细检查了文件。",
+    "english": "The meeting went on, the lights went out, and then he went over the documents carefully.",
+    "phrasalVerbs": [
+      { "chinese": "继续", "english": "go on" },
+      { "chinese": "熄灭", "english": "go out" },
+      { "chinese": "仔细检查", "english": "go over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "go",
+    "chinese": "他经历了困难时期，翻阅了所有文件，然后返回了家。",
+    "english": "He went through difficult times, went through all the documents, and then went back home.",
+    "phrasalVerbs": [
+      { "chinese": "经历", "english": "go through" },
+      { "chinese": "翻阅", "english": "go through" },
+      { "chinese": "返回", "english": "go back" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "come",
+    "chinese": "新书出版了，他过来拜访，并且提出了一个新想法。",
+    "english": "The new book came out, he came over to visit, and came up with a new idea.",
+    "phrasalVerbs": [
+      { "chinese": "出版", "english": "come out" },
+      { "chinese": "过来", "english": "come over" },
+      { "chinese": "提出", "english": "come up with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "turn",
+    "chinese": "他打开了灯，调大了音量，然后关掉了电视。",
+    "english": "He turned on the light, turned up the volume, and then turned off the TV.",
+    "phrasalVerbs": [
+      { "chinese": "打开", "english": "turn on" },
+      { "chinese": "调大", "english": "turn up" },
+      { "chinese": "关掉", "english": "turn off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "look",
+    "chinese": "他正在寻找工作，照顾孩子，并且调查这个问题。",
+    "english": "He is looking for a job, looking after the children, and looking into this issue.",
+    "phrasalVerbs": [
+      { "chinese": "寻找", "english": "look for" },
+      { "chinese": "照顾", "english": "look after" },
+      { "chinese": "调查", "english": "look into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "give",
+    "chinese": "他放弃了计划，让步了，并且归还了借来的书。",
+    "english": "He gave up the plan, gave in, and gave back the borrowed books.",
+    "phrasalVerbs": [
+      { "chinese": "放弃", "english": "give up" },
+      { "chinese": "让步", "english": "give in" },
+      { "chinese": "归还", "english": "give back" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "set",
+    "chinese": "他建立了公司，出发去旅行，并且开始陈述他的计划。",
+    "english": "He set up the company, set off on a trip, and set out to state his plan.",
+    "phrasalVerbs": [
+      { "chinese": "建立", "english": "set up" },
+      { "chinese": "出发", "english": "set off" },
+      { "chinese": "陈述", "english": "set out" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "run",
+    "chinese": "他的汽油用完了，在路上偶遇了朋友，然后快速复习了笔记。",
+    "english": "He ran out of gas, ran into a friend on the road, and then ran over his notes quickly.",
+    "phrasalVerbs": [
+      { "chinese": "用完", "english": "run out" },
+      { "chinese": "偶遇", "english": "run into" },
+      { "chinese": "快速复习", "english": "run over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "bring",
+    "chinese": "他提出了问题，带回了礼物，并且引起了变化。",
+    "english": "He brought up the question, brought back the gift, and brought about changes.",
+    "phrasalVerbs": [
+      { "chinese": "提出", "english": "bring up" },
+      { "chinese": "带回", "english": "bring back" },
+      { "chinese": "引起", "english": "bring about" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "call",
+    "chinese": "他取消了会议，回电给客户，并且拜访了朋友。",
+    "english": "He called off the meeting, called back the client, and called on his friend.",
+    "phrasalVerbs": [
+      { "chinese": "取消", "english": "call off" },
+      { "chinese": "回电", "english": "call back" },
+      { "chinese": "拜访", "english": "call on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "carry",
+    "chinese": "他继续工作，执行了计划，并且成功完成了任务。",
+    "english": "He carried on working, carried out the plan, and carried off the task successfully.",
+    "phrasalVerbs": [
+      { "chinese": "继续", "english": "carry on" },
+      { "chinese": "执行", "english": "carry out" },
+      { "chinese": "成功完成", "english": "carry off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "cut",
+    "chinese": "他减少了开支，切断了联系，并且停止了坏习惯。",
+    "english": "He cut down on expenses, cut off contact, and cut out bad habits.",
+    "phrasalVerbs": [
+      { "chinese": "减少", "english": "cut down" },
+      { "chinese": "切断", "english": "cut off" },
+      { "chinese": "停止", "english": "cut out" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fall",
+    "chinese": "关系破裂了，他跌倒了，并且落后于其他人。",
+    "english": "The relationship fell apart, he fell down, and fell behind others.",
+    "phrasalVerbs": [
+      { "chinese": "破裂", "english": "fall apart" },
+      { "chinese": "跌倒", "english": "fall down" },
+      { "chinese": "落后", "english": "fall behind" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "hang",
+    "chinese": "他闲逛了一会儿，稍等片刻，然后挂断了电话。",
+    "english": "He hung out for a while, hung on for a moment, and then hung up the phone.",
+    "phrasalVerbs": [
+      { "chinese": "闲逛", "english": "hang out" },
+      { "chinese": "稍等", "english": "hang on" },
+      { "chinese": "挂断", "english": "hang up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "hold",
+    "chinese": "请等一下，他被耽搁了，并且抑制住了情绪。",
+    "english": "Please hold on, he was held up, and held back his emotions.",
+    "phrasalVerbs": [
+      { "chinese": "等一下", "english": "hold on" },
+      { "chinese": "耽搁", "english": "hold up" },
+      { "chinese": "抑制", "english": "hold back" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "keep",
+    "chinese": "他保持节奏，继续工作，并且远离了麻烦。",
+    "english": "He kept up the pace, kept on working, and kept away from trouble.",
+    "phrasalVerbs": [
+      { "chinese": "保持", "english": "keep up" },
+      { "chinese": "继续", "english": "keep on" },
+      { "chinese": "远离", "english": "keep away" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "leave",
+    "chinese": "他省略了细节，留下了笔记，并且停止了工作。",
+    "english": "He left out the details, left behind the notes, and left off working.",
+    "phrasalVerbs": [
+      { "chinese": "省略", "english": "leave out" },
+      { "chinese": "留下", "english": "leave behind" },
+      { "chinese": "停止", "english": "leave off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "pull",
+    "chinese": "他靠边停车，停下了车，并且成功完成了任务。",
+    "english": "He pulled over, pulled up the car, and pulled off the task successfully.",
+    "phrasalVerbs": [
+      { "chinese": "靠边停车", "english": "pull over" },
+      { "chinese": "停下", "english": "pull up" },
+      { "chinese": "成功完成", "english": "pull off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "back",
+    "chinese": "他后退了，让步了，并且退让了。",
+    "english": "He backed away, backed down, and backed off.",
+    "phrasalVerbs": [
+      { "chinese": "后退", "english": "back away" },
+      { "chinese": "让步", "english": "back down" },
+      { "chinese": "退让", "english": "back off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "break",
+    "chinese": "机器故障了，他破门而入，并且突然开始唱歌。",
+    "english": "The machine broke down, he broke in, and broke into song suddenly.",
+    "phrasalVerbs": [
+      { "chinese": "故障", "english": "break down" },
+      { "chinese": "破门而入", "english": "break in" },
+      { "chinese": "突然开始", "english": "break into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "come",
+    "chinese": "他在街上偶遇了朋友，得到了帮助，并且顺道来访。",
+    "english": "He came across a friend on the street, came by some help, and came by to visit.",
+    "phrasalVerbs": [
+      { "chinese": "偶遇", "english": "come across" },
+      { "chinese": "得到", "english": "come by" },
+      { "chinese": "顺道来访", "english": "come by" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "come",
+    "chinese": "他得了感冒，继承了财产，并且实现了目标。",
+    "english": "He came down with a cold, came into an inheritance, and came off successfully.",
+    "phrasalVerbs": [
+      { "chinese": "得", "english": "come down with" },
+      { "chinese": "继承", "english": "come into" },
+      { "chinese": "实现", "english": "come off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "cool",
+    "chinese": "他冷静下来，放松了心情，并且逐渐冷却了情绪。",
+    "english": "He cooled down, cooled out, and cooled over gradually.",
+    "phrasalVerbs": [
+      { "chinese": "冷静", "english": "cool down" },
+      { "chinese": "放松", "english": "cool out" },
+      { "chinese": "逐渐冷却", "english": "cool over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "cover",
+    "chinese": "他掩盖了真相，代替了同事，并且用布盖住了桌子。",
+    "english": "He covered up the truth, covered for his colleague, and covered the table with a cloth.",
+    "phrasalVerbs": [
+      { "chinese": "掩盖", "english": "cover up" },
+      { "chinese": "代替", "english": "cover for" },
+      { "chinese": "用…盖住", "english": "cover with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "crack",
+    "chinese": "政府严厉打击犯罪，他捧腹大笑，并且继续前进。",
+    "english": "The government cracked down on crime, he cracked up, and cracked on with the work.",
+    "phrasalVerbs": [
+      { "chinese": "严厉打击", "english": "crack down on" },
+      { "chinese": "捧腹大笑", "english": "crack up" },
+      { "chinese": "继续前进", "english": "crack on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "cross",
+    "chinese": "他划掉了错误，删去了清单项，并且转变了立场。",
+    "english": "He crossed out the mistake, crossed off the list item, and crossed over to the other side.",
+    "phrasalVerbs": [
+      { "chinese": "划掉", "english": "cross out" },
+      { "chinese": "删去", "english": "cross off" },
+      { "chinese": "转变立场", "english": "cross over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "cut",
+    "chinese": "他插嘴打断了对话，削减了开支，并且切断了联系。",
+    "english": "He cut in during the conversation, cut down expenses, and cut off contact.",
+    "phrasalVerbs": [
+      { "chinese": "插嘴", "english": "cut in" },
+      { "chinese": "削减", "english": "cut down" },
+      { "chinese": "切断", "english": "cut off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "die",
+    "chinese": "声音逐渐平息，物种灭绝了，并且植物枯萎回缩。",
+    "english": "The sound died down, the species died out, and the plants died back.",
+    "phrasalVerbs": [
+      { "chinese": "逐渐平息", "english": "die down" },
+      { "chinese": "灭绝", "english": "die out" },
+      { "chinese": "枯萎回缩", "english": "die back" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "dig",
+    "chinese": "他开吃了，深入研究问题，并且挖掘出了真相。",
+    "english": "He dug in, dug into the problem, and dug up the truth.",
+    "phrasalVerbs": [
+      { "chinese": "开吃", "english": "dig in" },
+      { "chinese": "深入研究", "english": "dig into" },
+      { "chinese": "挖掘", "english": "dig up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "do",
+    "chinese": "他们废除了旧制度，系好了安全带，并且重做了作业。",
+    "english": "They did away with the old system, did up their seatbelts, and did over the homework.",
+    "phrasalVerbs": [
+      { "chinese": "废除", "english": "do away with" },
+      { "chinese": "系好", "english": "do up" },
+      { "chinese": "重做", "english": "do over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "drag",
+    "chinese": "会议拖延了，他把话题拖长了，并且把无关的人扯了进来。",
+    "english": "The meeting dragged on, he dragged out the topic, and dragged in unrelated people.",
+    "phrasalVerbs": [
+      { "chinese": "拖延", "english": "drag on" },
+      { "chinese": "拖长", "english": "drag out" },
+      { "chinese": "扯进来", "english": "drag in" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "draw",
+    "chinese": "他利用了经验，起草了文件，并且掏出了钱包。",
+    "english": "He drew on his experience, drew up the document, and drew out his wallet.",
+    "phrasalVerbs": [
+      { "chinese": "利用", "english": "draw on" },
+      { "chinese": "起草", "english": "draw up" },
+      { "chinese": "掏出", "english": "draw out" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "dress",
+    "chinese": "她盛装打扮，穿着正装，并且打扮成了公主。",
+    "english": "She dressed up, dressed in formal wear, and dressed up as a princess.",
+    "phrasalVerbs": [
+      { "chinese": "盛装打扮", "english": "dress up" },
+      { "chinese": "穿着", "english": "dress in" },
+      { "chinese": "打扮成", "english": "dress up as" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "drift",
+    "chinese": "他入睡了，逐渐疏远了朋友，并且不知不觉陷入了困境。",
+    "english": "He drifted off, drifted apart from friends, and drifted into trouble.",
+    "phrasalVerbs": [
+      { "chinese": "入睡", "english": "drift off" },
+      { "chinese": "逐渐疏远", "english": "drift apart" },
+      { "chinese": "不知不觉陷入", "english": "drift into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "drive",
+    "chinese": "他驱车离开了，赶走了入侵者，并且抬高了价格。",
+    "english": "He drove off, drove out the intruders, and drove up the prices.",
+    "phrasalVerbs": [
+      { "chinese": "驱车离开", "english": "drive off" },
+      { "chinese": "赶出", "english": "drive out" },
+      { "chinese": "抬高", "english": "drive up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "drop",
+    "chinese": "他顺道拜访了朋友，送达了包裹，并且退出了比赛。",
+    "english": "He dropped by his friend, dropped off the package, and dropped out of the competition.",
+    "phrasalVerbs": [
+      { "chinese": "顺道拜访", "english": "drop by" },
+      { "chinese": "送达", "english": "drop off" },
+      { "chinese": "退出", "english": "drop out" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "dry",
+    "chinese": "河流干涸了，他擦干了手，并且表面变干了。",
+    "english": "The river dried up, he dried off his hands, and the surface dried over.",
+    "phrasalVerbs": [
+      { "chinese": "干涸", "english": "dry up" },
+      { "chinese": "擦干", "english": "dry off" },
+      { "chinese": "表面变干", "english": "dry over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "eat",
+    "chinese": "他在外用餐，吃光了食物，并且侵蚀了金属。",
+    "english": "He ate out, ate up the food, and the acid ate away at the metal.",
+    "phrasalVerbs": [
+      { "chinese": "在外用餐", "english": "eat out" },
+      { "chinese": "吃光", "english": "eat up" },
+      { "chinese": "侵蚀", "english": "eat away" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "ease",
+    "chinese": "疼痛缓和了，他放松了，并且逐渐适应了新环境。",
+    "english": "The pain eased off, he eased up, and eased into the new environment.",
+    "phrasalVerbs": [
+      { "chinese": "缓和", "english": "ease off" },
+      { "chinese": "放松", "english": "ease up" },
+      { "chinese": "逐渐适应", "english": "ease into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "end",
+    "chinese": "他最终成为了医生，以成功告终，并且以感谢结尾。",
+    "english": "He ended up as a doctor, ended in success, and ended with thanks.",
+    "phrasalVerbs": [
+      { "chinese": "最终成为", "english": "end up" },
+      { "chinese": "以…告终", "english": "end in" },
+      { "chinese": "以…结尾", "english": "end with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "face",
+    "chinese": "他勇于面对困难，对抗了敌人，并且勇敢地坚持到底。",
+    "english": "He faced up to the difficulties, faced down the enemy, and faced out bravely.",
+    "phrasalVerbs": [
+      { "chinese": "勇于面对", "english": "face up to" },
+      { "chinese": "对抗", "english": "face down" },
+      { "chinese": "坚持到底", "english": "face out" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "factor",
+    "chinese": "他将成本计入预算，纳入考虑，并且提取了因子。",
+    "english": "He factored in the costs, factored them into the budget, and factored out the common factor.",
+    "phrasalVerbs": [
+      { "chinese": "计入", "english": "factor in" },
+      { "chinese": "纳入", "english": "factor into" },
+      { "chinese": "提取因子", "english": "factor out" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fade",
+    "chinese": "画面渐显了，然后渐隐，并且逐渐消失在背景中。",
+    "english": "The image faded in, then faded out, and faded into the background.",
+    "phrasalVerbs": [
+      { "chinese": "渐显", "english": "fade in" },
+      { "chinese": "渐隐", "english": "fade out" },
+      { "chinese": "渐渐融入", "english": "fade into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fasten",
+    "chinese": "他系紧了安全带，把文件系在一起，并且固定在墙上。",
+    "english": "He fastened up his seatbelt, fastened the papers together, and fastened them to the wall.",
+    "phrasalVerbs": [
+      { "chinese": "系紧", "english": "fasten up" },
+      { "chinese": "系在一起", "english": "fasten together" },
+      { "chinese": "固定在", "english": "fasten to" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fight",
+    "chinese": "他反击了攻击，抵抗了疾病，并且为自由而战。",
+    "english": "He fought back against the attack, fought off the illness, and fought for freedom.",
+    "phrasalVerbs": [
+      { "chinese": "反击", "english": "fight back" },
+      { "chinese": "抵抗", "english": "fight off" },
+      { "chinese": "为…而战", "english": "fight for" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "figure",
+    "chinese": "他将费用计入预算，弄明白了问题，并且预料到了结果。",
+    "english": "He figured in the expenses, figured out the problem, and figured on a positive outcome.",
+    "phrasalVerbs": [
+      { "chinese": "计入", "english": "figure in" },
+      { "chinese": "弄明白", "english": "figure out" },
+      { "chinese": "预料", "english": "figure on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fill",
+    "chinese": "他填写了表格，填满了油箱，并且向同事说明了情况。",
+    "english": "He filled in the form, filled up the tank, and filled his colleague in on the situation.",
+    "phrasalVerbs": [
+      { "chinese": "填写", "english": "fill in" },
+      { "chinese": "填满", "english": "fill up" },
+      { "chinese": "说明情况", "english": "fill in" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "filter",
+    "chinese": "他过滤掉了杂质，渗透了信息，并且渗入了市场。",
+    "english": "He filtered out the impurities, filtered through the information, and filtered into the market.",
+    "phrasalVerbs": [
+      { "chinese": "过滤掉", "english": "filter out" },
+      { "chinese": "渗透", "english": "filter through" },
+      { "chinese": "渗入", "english": "filter into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "find",
+    "chinese": "他查明了真相，打听了消息，并且找到了毛病。",
+    "english": "He found out the truth, found out about the news, and found fault with the plan.",
+    "phrasalVerbs": [
+      { "chinese": "查明", "english": "find out" },
+      { "chinese": "打听", "english": "find out about" },
+      { "chinese": "找毛病", "english": "find fault with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "finish",
+    "chinese": "他收尾了工作，做完了任务，并且以成功告终。",
+    "english": "He finished up the work, finished off the task, and finished up with success.",
+    "phrasalVerbs": [
+      { "chinese": "收尾", "english": "finish up" },
+      { "chinese": "做完", "english": "finish off" },
+      { "chinese": "以…告终", "english": "finish up with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fire",
+    "chinese": "他点燃了引擎，开始发问，并且匆忙发出了邮件。",
+    "english": "He fired up the engine, fired away with questions, and fired off an email.",
+    "phrasalVerbs": [
+      { "chinese": "点燃", "english": "fire up" },
+      { "chinese": "开始发问", "english": "fire away" },
+      { "chinese": "匆忙发出", "english": "fire off" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fix",
+    "chinese": "他安排了会议，选定了日期，并且给朋友安排了工作。",
+    "english": "He fixed up the meeting, fixed on a date, and fixed his friend up with a job.",
+    "phrasalVerbs": [
+      { "chinese": "安排", "english": "fix up" },
+      { "chinese": "选定", "english": "fix on" },
+      { "chinese": "给…安排", "english": "fix up with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "fit",
+    "chinese": "他融入了团队，适合于新角色，并且与计划相协调。",
+    "english": "He fit in with the team, fit into the new role, and fit in with the plan.",
+    "phrasalVerbs": [
+      { "chinese": "融入", "english": "fit in" },
+      { "chinese": "适合于", "english": "fit into" },
+      { "chinese": "相协调", "english": "fit in with" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "grow",
+    "chinese": "他长大了，逐渐变成了领导，并且逐渐喜欢上了新工作。",
+    "english": "He grew up, grew into a leader, and grew to like his new job.",
+    "phrasalVerbs": [
+      { "chinese": "长大", "english": "grow up" },
+      { "chinese": "逐渐变成", "english": "grow into" },
+      { "chinese": "逐渐喜欢", "english": "grow on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "hand",
+    "chinese": "他分发了传单，上交了作业，并且移交了责任。",
+    "english": "He handed out flyers, handed in his homework, and handed over the responsibility.",
+    "phrasalVerbs": [
+      { "chinese": "分发", "english": "hand out" },
+      { "chinese": "上交", "english": "hand in" },
+      { "chinese": "移交", "english": "hand over" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "knock",
+    "chinese": "他击倒了对手，收工了，并且草草拼成了报告。",
+    "english": "He knocked out his opponent, knocked off work, and knocked together a report.",
+    "phrasalVerbs": [
+      { "chinese": "击倒", "english": "knock out" },
+      { "chinese": "收工", "english": "knock off" },
+      { "chinese": "草草拼成", "english": "knock together" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "let",
+    "chinese": "他让客人进入了，放出了消息，并且让朋友失望了。",
+    "english": "He let in the guests, let out the news, and let down his friend.",
+    "phrasalVerbs": [
+      { "chinese": "让…进入", "english": "let in" },
+      { "chinese": "放出", "english": "let out" },
+      { "chinese": "让…失望", "english": "let down" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "move",
+    "chinese": "他搬进了新家，升职了，并且继续前进了。",
+    "english": "He moved in to the new house, moved up in his career, and moved on to the next project.",
+    "phrasalVerbs": [
+      { "chinese": "搬进", "english": "move in" },
+      { "chinese": "升职", "english": "move up" },
+      { "chinese": "继续前进", "english": "move on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "pass",
+    "chinese": "他昏倒了，去世了，并且传递了消息。",
+    "english": "He passed out, passed away, and passed on the message.",
+    "phrasalVerbs": [
+      { "chinese": "昏倒", "english": "pass out" },
+      { "chinese": "去世", "english": "pass away" },
+      { "chinese": "传递", "english": "pass on" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "pay",
+    "chinese": "他还了钱，还清了债务，并且为错误付出了代价。",
+    "english": "He paid back the money, paid off the debt, and paid for his mistakes.",
+    "phrasalVerbs": [
+      { "chinese": "还钱", "english": "pay back" },
+      { "chinese": "还清", "english": "pay off" },
+      { "chinese": "为…付代价", "english": "pay for" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "pick",
+    "chinese": "他捡起了书，挑选了礼物，并且学会了新技能。",
+    "english": "He picked up the book, picked out a gift, and picked up a new skill.",
+    "phrasalVerbs": [
+      { "chinese": "捡起", "english": "pick up" },
+      { "chinese": "挑选", "english": "pick out" },
+      { "chinese": "学会", "english": "pick up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "point",
+    "chinese": "他指出了错误，指向了方向，并且强调了重点。",
+    "english": "He pointed out the mistake, pointed to the direction, and pointed up the key issue.",
+    "phrasalVerbs": [
+      { "chinese": "指出", "english": "point out" },
+      { "chinese": "指向", "english": "point to" },
+      { "chinese": "强调", "english": "point up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "sit",
+    "chinese": "他坐下了，坐直了，并且闲坐着。",
+    "english": "He sat down, sat up straight, and sat around doing nothing.",
+    "phrasalVerbs": [
+      { "chinese": "坐下", "english": "sit down" },
+      { "chinese": "坐直", "english": "sit up" },
+      { "chinese": "闲坐", "english": "sit around" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "stand",
+    "chinese": "他站起来了，支持了朋友，并且维护了权利。",
+    "english": "He stood up, stood by his friend, and stood up for his rights.",
+    "phrasalVerbs": [
+      { "chinese": "站起来", "english": "stand up" },
+      { "chinese": "支持", "english": "stand by" },
+      { "chinese": "维护", "english": "stand up for" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "talk",
+    "chinese": "他谈论了计划，商量了细节，并且说服了同事。",
+    "english": "He talked about the plan, talked over the details, and talked his colleague into agreeing.",
+    "phrasalVerbs": [
+      { "chinese": "谈论", "english": "talk about" },
+      { "chinese": "商量", "english": "talk over" },
+      { "chinese": "说服", "english": "talk into" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "think",
+    "chinese": "他仔细考虑了建议，想出了办法，并且回想了过去。",
+    "english": "He thought over the suggestion, thought up a solution, and thought back to the past.",
+    "phrasalVerbs": [
+      { "chinese": "仔细考虑", "english": "think over" },
+      { "chinese": "想出", "english": "think up" },
+      { "chinese": "回想", "english": "think back" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "throw",
+    "chinese": "他扔掉了垃圾，扔出了球，并且呕吐了。",
+    "english": "He threw away the garbage, threw out the ball, and threw up.",
+    "phrasalVerbs": [
+      { "chinese": "扔掉", "english": "throw away" },
+      { "chinese": "扔出", "english": "throw out" },
+      { "chinese": "呕吐", "english": "throw up" }
+    ],
+    "type": "phrasal_verbs"
+  },
+  {
+    "verbGroup": "work",
+    "chinese": "他锻炼了身体，想出了解决方案，并且致力于项目。",
+    "english": "He worked out at the gym, worked out a solution, and worked on the project.",
+    "phrasalVerbs": [
+      { "chinese": "锻炼", "english": "work out" },
+      { "chinese": "想出", "english": "work out" },
+      { "chinese": "致力于", "english": "work on" }
+    ],
+    "type": "phrasal_verbs"
+  }
+ 
 
 ]
